@@ -1,6 +1,8 @@
 #!/bin/bash
 set -euo pipefail
 
+#new updated multiply
+
 # Usage: ./multiply.sh <num1> <num2>
 # Example: ./multiply.sh 3 7
 
